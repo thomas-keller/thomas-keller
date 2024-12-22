@@ -2,6 +2,9 @@
 
 - 🔭 I’m currently working on various bioinformatics projects
 - 🌱 I’m currently learning/relearning building some deep learning models with pytorch
+
+![Metrics](/github-metrics.svg)
+
 <!--
 **thomas-keller/thomas-keller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
